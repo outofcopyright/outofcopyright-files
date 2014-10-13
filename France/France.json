@@ -1,8 +1,8 @@
 {
     "country":"France",
-    "contributors":["Jesse J&eacute;r&ocirc;me", "Nathan Heu"],
-    "language":["fr","nl"],
-    "default_language": "nl",
+    "contributors":["Gobbi Julien", "Nathan Heu"],
+    "language":["FR"],
+    "default_language": "FR",
     "subgraph": 
     [
         {
