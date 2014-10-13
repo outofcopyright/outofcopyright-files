@@ -2,7 +2,7 @@
     "country":"Luxembourg",
     "contributors":["Jesse Jérôme", "Nathan Heu"],
     "language":["fr","nl"],
-    "default-language": "nl",
+    "default_language": "nl",
     "subgraph": 
     [
         {
