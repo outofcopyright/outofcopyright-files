@@ -1,8 +1,8 @@
 {
     "country":"Deutschland",
-    "contributors":["Jesse Jérôme", "Nathan Heu"],
-    "language":["fr","nl"],
-    "default-language": "nl",
+    "contributors":["Jesse J&eacute;r&ocirc;me"],
+    "language":["DE","EN"],
+    "default_language": "DE",
     "subgraph": 
     [
         {

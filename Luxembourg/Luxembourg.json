@@ -1,8 +1,8 @@
 {
     "country":"Luxembourg",
-    "contributors":["Jesse Jérôme", "Nathan Heu"],
-    "language":["fr","nl"],
-    "default-language": "nl",
+    "contributors":["Jesse J&eacute;r&ocirc;me", "Nathan Heu"],
+    "language":["FR","EN"],
+    "default_language": "EN",
     "subgraph": 
     [
         {
