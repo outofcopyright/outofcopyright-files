@@ -1,8 +1,1 @@
-{
-    "country": "netherlands",
-    "contributors": ["Jérôme Jesse", "Nathan Heu", "Maarten Zeinstra"],
-    "language": ["NL"],
-    "default_language": "NL",
-    "subgraph": [],
-    "datapoints": []
-}
+{"country":"netherlands","contributors":["Jérôme Jesse","Nathan Heu","Maarten Zeinstra"],"language":["NL"],"default_language":"NL","subgraph":[{"graphName":"test","nodes":[{"id":1,"type":"question","text":"test_","inputs":["test"],"start":true,"responses":[{"value":"test 1","child":1},{"value":"test 2","child":2}],"formula":null},{"type":"question","text":"","formula":"","inputs":[],"start":false,"responses":[{"value":true,"child":3},{"value":false,"child":4}],"id":2},{"type":null,"text":"","formula":null,"inputs":[],"start":false,"responses":[],"id":3},{"type":null,"text":"","formula":null,"inputs":[],"start":false,"responses":[],"id":4},{"type":null,"text":"","formula":null,"inputs":[],"start":false,"responses":[],"id":5}]}],"datapoints":[{"id":"test","hint":"test","type":"list","set":["test 1","test 2"]}]}
