@@ -62,5 +62,7 @@
    "question_QUESTION_EEA_NOTEEA_COUNTRY_REGISTERED_OFFICE":"In which country does it have its registered office",
    "question_QUESTION_EEA_NOTEEA_OPERATIONS_GUENUINELY_ECONOMY_EEA":"Are its operation genuinely linked on an ongoing basis with the economy of an EEA state",
    "question_QUESTION_EEA_NOTEEA_COUNTRY_OFFICE_ADMINISTRATION_BUSINESS":"In which country does it have its registered office, central administration, or principal place or business",
-   "question_QUESTION_EEA_NOTEEA_COUNTRY_RIGHT_HOLDER_NATIONAL_RESIDENT":"Of which countries is the rights holder a national or resident"
+   "question_QUESTION_EEA_NOTEEA_COUNTRY_RIGHT_HOLDER_NATIONAL_RESIDENT":"Of which countries is the rights holder a national or resident",
+   "labelTypeOfWork":"Type of work",
+   "labelLangue":"Language"
 }
