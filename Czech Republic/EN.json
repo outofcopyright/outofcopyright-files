@@ -64,5 +64,9 @@
    "question_QUESTION_EEA_NOTEEA_COUNTRY_OFFICE_ADMINISTRATION_BUSINESS":"In which country does it have its registered office, central administration, or principal place or business",
    "question_QUESTION_EEA_NOTEEA_COUNTRY_RIGHT_HOLDER_NATIONAL_RESIDENT":"Of which countries is the rights holder a national or resident",
    "labelTypeOfWork":"Type of work",
-   "labelLangue":"Language"
+   "labelLangue":"Language",
+   "Yes":"Yes",
+   "No":"No",
+   "EEA":"EEA",
+   "Not_EEA":"Not EEA"
 }
