@@ -21,5 +21,7 @@
    "hint_what_is_your_birth_year":"",
    "question_40_years":"40 Years",
    "hint_40_years":"40 Years",
-   "LBL_19":"Je bent ouder dan 40!"
+   "LBL_19":"Je bent ouder dan 40!",
+   "labelWarning":"Warning!",
+   "labelResponseIsNotANumber":"Response is not a number."
 }
