@@ -1,8 +1,1 @@
-{  
-   "True": "True",
-   "False": "False",
-   "labelLangue": "Languages",
-   "labelTypeOfWork": "Type of work",
-   "labelWarning": "Warning!",
-   "labelResponseIsNotANumber": "Response is not a number."
-}
+{"True":"True","False":"False","labelLangue":"Languages","labelTypeOfWork":"Type of work","labelWarning":"Warning!","labelResponseIsNotANumber":"Response is not a number.","question_Term_of_protection_for_typographical_arrangement_of_published_edition":"Term of protection for typographical arrangement of published edition","question_In_what_year_was_the_edition_published":"In what year was the edition published?","Was_the_edition_published_more_than_25_years_ago":"Was the edition published more than 25 years ago?"}
