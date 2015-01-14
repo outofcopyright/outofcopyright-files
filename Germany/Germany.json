@@ -1,12 +1,1 @@
-{
-  "country": "germany",
-  "contributors": [
-    "Maarten Zeinstra"
-  ],
-  "language": [
-    "EN"
-  ],
-  "default_language": "EN",
-  "subgraph": [],
-  "datapoints" : []
-}
+{"country":"germany","contributors":["Maarten Zeinstra","Tessa Askamp"],"language":["EN"],"default_language":"EN","subgraph":[{"graphName":"Broadcast","nodes":[{"id":1,"type":null,"text":"","inputs":[],"start":true,"responses":[]}]}],"datapoints":[{"id":"In_what_year_was_the_programme_first_broadcasted","type":"numeric","set":null}]}
