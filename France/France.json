@@ -1,1 +1,1 @@
-{"country":"france","contributors":[],"language":["EN"],"default_language":"EN","subgraph":[],"datapoints":[]}
+{"country":"france","contributors":["Maarten Zeinstra"],"language":["EN"],"default_language":"EN","subgraph":[{"graphName":"Broadcast","nodes":[{"id":1,"type":null,"text":"","inputs":[],"start":true,"responses":[]}]}],"datapoints":[{"id":"Term_of_protection_for_broadcasts","type":"static","set":"50"}]}
