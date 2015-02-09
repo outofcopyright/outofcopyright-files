@@ -1,1 +1,1 @@
-{"country":"Luxembourg","contributors":[],"language":["EN"],"default_language":"EN","subgraph":[],"datapoints":[]}
+{"country":"Luxembourg","contributors":["Maarten Zeinstra"],"language":["EN"],"default_language":"EN","subgraph":[{"graphName":"Performance","nodes":[{"id":1,"type":null,"text":"","inputs":[],"start":true,"responses":[]}]}],"datapoints":[{"id":"Term_of_protection_for_Perfomances","type":"static","set":"50"},{"id":"In_what_year_was_the_performance_first_published_or_communicated_to_the_public","type":"numeric","set":null}]}
