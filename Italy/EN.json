@@ -1,8 +1,1 @@
-{
-  "True": "True",
-  "False": "False",
-  "labelTypeOfWork": "Type of work",
-  "labelLangue": "Language",
-  "labelWarning": "Warning",
-  "labelResponseIsNotANumber": "Response is not a number"
-}
+{"True":"True","False":"False","labelTypeOfWork":"Type of work","labelLangue":"Language","labelWarning":"Warning","labelResponseIsNotANumber":"Response is not a number","question_In_what_year_was_the_photograph_taken":"In what year was the photograph taken?","question_Term_of_protection_Non_original_photograph":"Term of protection Non-original photograph","Was_the_photograph_taken_more_than_20_years_ago":"Was the photograph taken more than 20 years ago?","LBL_4":"The rights in the unoriginal photograph have expired. Please note that additional rights might also apply, as a single item might be protected by multiple layers of rights. You may need to apply the Public Domain Calculator again to examine whether other relevant copyright, related rights or sui generis rights protection has expired.","LBL_5":"The rights in the unoriginal photograph have not expired. Please contact the right holder before use."}
