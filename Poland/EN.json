@@ -1,8 +1,1 @@
-{
-  "True": "True",
-  "False": "False",
-  "labelTypeOfWork": "Type of work",
-  "labelLangue": "Language",
-  "labelWarning": "Warning",
-  "labelResponseIsNotANumber": "Response is not a number"
-}
+{"True":"True","False":"False","labelTypeOfWork":"Type of work","labelLangue":"Language","labelWarning":"Warning","labelResponseIsNotANumber":"Response is not a number","question_In_what_year_was_the_critical_or_scientific_edition_published":"In what year was the critical or scientific edition published?","hint_In_what_year_was_the_critical_or_scientific_edition_published":"In order to determine whether the work is in the public domain or not, the Public Domain Calculator should be applied to the work itself.","question_Term_of_protection_Critical_or_scientific_edition":"Term of protection Critical or scientific edition","Was_the_critical_or_scientific_edition_published_more_than_30_years_ago":"Was the critical or scientific edition published more than 30 years ago?","LBL_4":"The rights in the critical and scientific publication of this work have expired. Please note that additional rights might also apply, as a single item might be protected by multiple layers of rights. You may need to apply the Public Domain Calculator again to examine whether other relevant copyright, related rights or sui generis rights protection has expired.","LBL_5":"The rights in the critical and scientific publication of this work have not expired. Please contact the right holder before use."}
