@@ -1,12 +1,1 @@
-{
-  "country": "test-land",
-  "contributors": [
-    "Maarten Zeinstra"
-  ],
-  "language": [
-    "EN"
-  ],
-  "default_language": "EN",
-  "subgraph": [],
-  "datapoints": []
-}
+{"country":"test-land","contributors":["Maarten Zeinstra"],"language":["EN"],"default_language":"EN","subgraph":[{"graphName":"Diligent Search NL","nodes":[{"id":1,"type":null,"text":"","inputs":[],"start":true,"responses":[]}]}],"datapoints":[]}
